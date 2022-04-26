@@ -1,2 +1,2 @@
-# Scripts_JAVA
+# ScriptsJavaWeb&Mobile
 Java script with selenium webdriver
